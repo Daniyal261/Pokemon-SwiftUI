@@ -13,9 +13,20 @@ struct PersistenceController {
     static var preview: PersistenceController = {
         let result = PersistenceController(inMemory: true)
         let viewContext = result.container.viewContext
-        for _ in 0..<10 {
-            let newItem = Item(context: viewContext)
-            newItem.timestamp = Date()
+        for i in 0..<1 {
+            let newItem = Pokemon(context: viewContext)
+            newItem.id = Int16(i)
+            newItem.attack = Int16(1)
+            newItem.name = "Bulbasaur"
+            newItem.types = ["grass", "poison"]
+            newItem.hp = Int16(1)
+            newItem.defence = Int16(1)
+            newItem.specialAttack = Int16(1)
+            newItem.specialDefence = Int16(1)
+            newItem.shiny = URL(string: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png")!
+            newItem.speed = Int16(1)
+            newItem.sprite = URL(string: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png")!
+            newItem.isFavorite = false
         }
         do {
             try viewContext.save()
@@ -34,6 +45,8 @@ struct PersistenceController {
         container = NSPersistentContainer(name: "Dex3")
         if inMemory {
             container.persistentStoreDescriptions.first!.url = URL(fileURLWithPath: "/dev/null")
+        } else {
+            container.persistentStoreDescriptions.first?.url = FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: "group.com.codeferry.Dex3Group")?.appending(path: "Dex3.sqlite")
         }
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {

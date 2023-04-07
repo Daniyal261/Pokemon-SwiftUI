@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12F926E1-E89F-4067-A66A-E38B94D0F9E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E892912-9F83-4125-93C0-A810C366824C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchPokemon(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E892912-9F83-4125-93C0-A810C366824C - ef3265fc9b53f8cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1434">
+               </Location>
+               <Location
+                  uuid = "1E892912-9F83-4125-93C0-A810C366824C - ef3265fc9b53fe60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1255">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D101BF43-76AA-4B70-989E-5CD01BA645E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchAllPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D101BF43-76AA-4B70-989E-5CD01BA645E8 - 1a3dfa96d02eaeef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "3676">
+               </Location>
+               <Location
+                  uuid = "D101BF43-76AA-4B70-989E-5CD01BA645E8 - 1a3dfa96d02eaeef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "4930">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D34E42A8-D1FB-4AF2-A685-D369E5A66C3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchAllPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D34E42A8-D1FB-4AF2-A685-D369E5A66C3F - 1a3dfa96d02eae6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "3995">
+               </Location>
+               <Location
+                  uuid = "D34E42A8-D1FB-4AF2-A685-D369E5A66C3F - 1a3dfa96d02eae6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "5267">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBBDE3EC-9B02-4F96-B555-01BD1F30D749"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchAllPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBBDE3EC-9B02-4F96-B555-01BD1F30D749 - 780912b15617f313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1175">
+               </Location>
+               <Location
+                  uuid = "BBBDE3EC-9B02-4F96-B555-01BD1F30D749 - 780912b15617f313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchAllPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - 780912b15617fda7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1367">
+               </Location>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - 1a3dfa96d02ea1a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "4570">
+               </Location>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - 86de96c9a8f4cba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - 51cb2adfe5e329a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "693">
+               </Location>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - 1a3dfa96d02ea1a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "4435">
+               </Location>
+               <Location
+                  uuid = "608B14A1-2E7F-4CBD-A54D-316A87989D63 - b7d042fa6bc865a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Dex3.FetchController.fetchAllPokemon() async throws -&gt; Swift.Array&lt;Dex3.TempPokemon&gt;"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2723">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E47C7E8-BC09-4075-B79D-AC3346154560"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchPokemon(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E47C7E8-BC09-4075-B79D-AC3346154560 - ef3265fc9b53fabb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1354">
+               </Location>
+               <Location
+                  uuid = "5E47C7E8-BC09-4075-B79D-AC3346154560 - ef3265fc9b53fabb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+               <Location
+                  uuid = "5E47C7E8-BC09-4075-B79D-AC3346154560 - ef3265fc9b53fabb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2450">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "288A32D4-98A7-4BA1-99D6-5721EF5609CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchPokemon(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "288A32D4-98A7-4BA1-99D6-5721EF5609CE - ef3265fc9b53f80f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "983">
+               </Location>
+               <Location
+                  uuid = "288A32D4-98A7-4BA1-99D6-5721EF5609CE - ef3265fc9b53fe60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1255">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchPokemon(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - 3ea06d3a47e17218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - ef0394ed8c84400d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - ef3265fc9b53fa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - b74b6180356abe12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - ef3265fc9b53fa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - 3ea06d3a47e17218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - ef0394ed8c84400d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - ef3265fc9b53fa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "449">
+               </Location>
+               <Location
+                  uuid = "130CDA93-AA10-4E45-B9CB-1555335B150B - b74b6180356abe12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Dex3.FetchController.fetchPokemon(from: Foundation.URL) async throws -&gt; Dex3.TempPokemon"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raja.ahmed/Documents/Learning%20Projects/Dex3/Dex3/NetoworkController/FetchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "095BFF7D-57C8-40C3-BF41-CECBFDC27D23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/NetoworkController/FetchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "fetchPokemon(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
